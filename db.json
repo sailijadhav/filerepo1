@@ -1,55 +1,5 @@
 {
   files:[
-    {
-        "actualName": "test(7).txt",
-        "bytesFileSize": 4,
-        "extension": "txt",
-        "extra": "",
-        "uploadedBy": "kmahajan",
-        "uploadedOn": "2018-05-14",
-        "userProvidedName": "test.txt",
-        "uuid": "f7866edb-f442-419c-9b03-31e6824209e7"
-      },
-      {
-        "actualName": "sample(14).txt",
-        "bytesFileSize": 6,
-        "extension": "txt",
-        "extra": "",
-        "uploadedBy": "kmahajan",
-        "uploadedOn": "2018-05-14",
-        "userProvidedName": "sample.txt",
-        "uuid": "5d8dadfb-62e9-49fd-82bf-752e8052f5c7"
-      },
-      {
-        "actualName": "mainfile(6).txt",
-        "bytesFileSize": 1245810,
-        "extension": "txt",
-        "extra": "",
-        "uploadedBy": "amruta.kadam",
-        "uploadedOn": "2018-05-14",
-        "userProvidedName": "mainfile.txt",
-        "uuid": "d2cd56a0-6333-4a5a-9e29-915ea0bd26a5"
-      },
-      {
-        "actualName": "test(6).txt",
-        "bytesFileSize": 4,
-        "extension": "txt",
-        "extra": "",
-        "uploadedBy": "amruta.kadam",
-        "uploadedOn": "2018-05-14",
-        "userProvidedName": "test.txt",
-        "uuid": "3e41f88c-4e1d-4829-b4ad-93222fb8fbe8"
-      },
-      {
-        "actualName": "sample(13).txt",
-        "bytesFileSize": 6,
-        "extension": "txt",
-        "extra": "",
-        "uploadedBy": "amruta.kadam",
-        "uploadedOn": "2018-05-14",
-        "userProvidedName": "sample.txt",
-        "uuid": "2cedd2d0-6ad3-49b4-b1f6-03e010e7c728"
-      },
       {
         "actualName": "mainfile(5).txt",
         "bytesFileSize": 1245810,

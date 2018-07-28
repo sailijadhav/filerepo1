@@ -1,25 +1,6 @@
 {
   "files":[
-      {
-        "actualName": "mainfile(5).txt",
-        "bytesFileSize": 1245810,
-        "extension": "txt",
-        "extra": "",
-        "uploadedBy": "nasati",
-        "uploadedOn": "2018-05-14",
-        "userProvidedName": "mainfile.txt",
-        "uuid": "aee012e5-6aa3-499d-a8f3-ca7280fc8aed"
-      },
-      {
-        "actualName": "sample(12).txt",
-        "bytesFileSize": 6,
-        "extension": "txt",
-        "extra": "",
-        "uploadedBy": "amruta.kadam",
-        "uploadedOn": "2018-05-14",
-        "userProvidedName": "sample.txt",
-        "uuid": "c4165b16-d648-48ae-85e8-a7f3ed2f97e6"
-      },
+      
       {
         "actualName": "test(5).txt",
         "bytesFileSize": 4,

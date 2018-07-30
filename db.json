@@ -1,5 +1,6 @@
 {
-  "files":[
+  "Result":{
+  "data":[
       {
         "actualName": "test(5).txt",
         "bytesFileSize": 4,
@@ -300,5 +301,6 @@
         "userProvidedName": "2.png",
         "uuid": "359d2550-1a5e-42ce-bc9b-a0e16d145c9c"
       }
-  ]
+    ]
+  }
 }
